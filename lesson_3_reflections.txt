@@ -10,4 +10,7 @@ Fork is cloning on Github. Cloning is the process of creating a copy of a reposi
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Good to know what is out-of-sync. You can then resolve conflicts locally and push changes to the remote. 
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I would use clone / push / pull. But communicating with collaborators would be difficult. 
+
 
