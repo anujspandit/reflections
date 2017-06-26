@@ -13,4 +13,9 @@ Good to know what is out-of-sync. You can then resolve conflicts locally and pus
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I would use clone / push / pull. But communicating with collaborators would be difficult. 
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+a) When there are many collaborators 
+b) When I want to experiment and get things reviewed 
+
+
 
